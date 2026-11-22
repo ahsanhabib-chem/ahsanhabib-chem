@@ -1,5 +1,5 @@
 <!-- ================= HERO SECTION ================= -->
-<div style="background: linear-gradient(135deg, #f0fdf4 0%, #e0f2fe 100%); padding: 40px; border-radius: 12px; border: 1px solid #bbf7d0; margin-bottom: 30px;">
+<div style="background: linear-gradient(180deg, #FFFAF1 0%, #F7ECCB 100%); padding: 40px; border-radius: 12px; color: #333333;">
   
   <h1 style="font-size: 40px; margin: 0 0 10px 0; color: #0f172a; line-height: 1.2;">Md. Ahsan Habib</h1>
   <h3 style="font-size: 20px; color: #0f766e; margin: 0 0 20px 0; font-weight: 600;">
@@ -82,9 +82,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
 ---
 
 <!-- ================= TECHNIQUES & INSTRUMENTATION ================= -->
