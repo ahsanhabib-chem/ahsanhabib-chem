@@ -1,5 +1,7 @@
 <!-- ================= HERO SECTION ================= -->
-<div style="background: linear-gradient(180deg, #FFFAF1 0%, #F7ECCB 100%); padding: 40px; border-radius: 12px; color: #333333;">
+<p align="center">
+  <img src="banner.png" width="100%" alt="Ahsan Habib - Chemistry Research Profile">
+</p>
   
   <h1 style="font-size: 40px; margin: 0 0 10px 0; color: #0f172a; line-height: 1.2;">Md. Ahsan Habib</h1>
   <h3 style="font-size: 20px; color: #0f766e; margin: 0 0 20px 0; font-weight: 600;">
@@ -33,7 +35,6 @@
         Interested in analytical methodologies for qualitative and quantitative analysis, method development, and the accurate determination of chemical constituents across a wide range of samples and applications.
       </p>
     </td>
-    
     <!-- Box 2 -->
     <td width="33.33%" valign="top" style="background-color: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #10b981; border-radius: 8px; padding: 20px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
       <p style="font-size: 24px; margin: 0 0 10px 0;">🔬</p>
@@ -42,7 +43,6 @@
         Interested in applying spectroscopic methods to investigate molecular structure, chemical composition, bonding characteristics, molecular interactions, and physicochemical changes in complex systems.
       </p>
     </td>
-    
     <!-- Box 3 -->
     <td width="33.33%" valign="top" style="background-color: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #8b5cf6; border-radius: 8px; padding: 20px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
       <p style="font-size: 24px; margin: 0 0 10px 0;">🧱</p>
@@ -62,7 +62,6 @@
         Exploring the sources, transformation, transport, and environmental implications of atmospheric contaminants, including airborne microplastics and nanoplastics, and their potential interactions.
       </p>
     </td>
-    
     <!-- Box 5 -->
     <td width="33.33%" valign="top" style="background-color: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #14b8a6; border-radius: 8px; padding: 20px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
       <p style="font-size: 24px; margin: 0 0 10px 0;">🌿</p>
@@ -71,7 +70,6 @@
         Exploring carbon-based materials, carbon transformation, and sustainable approaches to carbon utilization, environmental remediation, and sequestration.
       </p>
     </td>
-    
     <!-- Box 6 -->
     <td width="33.33%" valign="top" style="background-color: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #ec4899; border-radius: 8px; padding: 20px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
       <p style="font-size: 24px; margin: 0 0 10px 0;">♻️</p>
