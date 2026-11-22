@@ -10,27 +10,59 @@ I am a Chemistry graduate from the University of Rajshahi, Bangladesh, with rese
 My research interests focus on analytical and environmental chemistry, molecular spectroscopy, and materials characterization. I am also interested in applying Python-based computational tools for scientific data processing, spectral analysis, and visualization.
 
 ---
- Research Interests
-The scientific themes that connect my research interests — investigating complex chemical systems through analytical science, molecular spectroscopy, materials characterization, and environmental applications, with an interest in sustainable technologies and resource utilization.
+ <h2>🔬 Research Interests</h2>
+<p style="color: #57606a; font-size: 16px; margin-bottom: 20px; line-height: 1.5;">
+  The scientific themes that connect my research interests — investigating complex chemical systems through analytical science, molecular spectroscopy, materials characterization, and environmental applications, with an interest in sustainable technologies and resource utilization.
+</p>
 
-
-🧪 Analytical Chemistry & Chemical Characterization
-Interested in analytical methodologies for qualitative and quantitative analysis, method development, and the accurate determination of chemical constituents across a wide range of samples and applications. 
-
-🔬 Spectroscopy & Molecular Characterization 
-Interested in applying spectroscopic methods to investigate molecular structure, chemical composition, bonding characteristics, molecular interactions, and physicochemical changes in complex chemical and material systems. 
-
-⚗️  Materials Chemistry & Characterization
-Interested in understanding the composition, structure, and functional properties of materials through analytical methods, spectroscopy, and complementary characterization techniques.
-
-🌫️  Atmospheric Chemistry & Environmental Contaminants
-Interested in the behavior of atmospheric contaminants, particularly their sources, transformation, transport, and environmental impacts, including the role of airborne microplastics and nanoplastics in atmospheric processes.
-
-🌿  Carbon Materials & Environmental Applications
-Interested in carbon-based materials, their properties and transformations, and their potential applications in carbon utilization, environmental remediation, and sequestration.
-
-♻️  Sustainable Materials, Biomass Valorization & Resource Recovery
-Interested in converting biomass and organic waste into value-added materials and exploring sustainable approaches to resource recovery and circular economy.
+<table width="100%" style="table-layout: fixed; border-collapse: separate; border-spacing: 15px;">
+  <tr>
+    <td width="33.33%" valign="top" style="background-color: #ffffff; border: 1px solid #d0d7de; border-top: 4px solid #0969da; border-radius: 8px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
+      <p style="font-size: 24px; margin: 0 0 10px 0;">🧪</p>
+      <h3 style="margin: 0 0 10px 0; font-size: 18px; color: #24292f; line-height: 1.2;">Analytical Chemistry & Chemical Characterization</h3>
+      <p style="font-size: 14px; color: #57606a; line-height: 1.5; margin: 0;">
+        Interested in analytical methodologies for qualitative and quantitative analysis, method development, and the accurate determination of chemical constituents across a wide range of samples.
+      </p>
+    </td>
+    <td width="33.33%" valign="top" style="background-color: #ffffff; border: 1px solid #d0d7de; border-top: 4px solid #0969da; border-radius: 8px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
+      <p style="font-size: 24px; margin: 0 0 10px 0;">🔬</p>
+      <h3 style="margin: 0 0 10px 0; font-size: 18px; color: #24292f; line-height: 1.2;">Spectroscopy & Molecular Characterization</h3>
+      <p style="font-size: 14px; color: #57606a; line-height: 1.5; margin: 0;">
+        Interested in applying spectroscopic methods to investigate molecular structure, chemical composition, bonding characteristics, molecular interactions, and physicochemical changes in complex chemical and material systems.
+      </p>
+    </td>
+    <td width="33.33%" valign="top" style="background-color: #ffffff; border: 1px solid #d0d7de; border-top: 4px solid #0969da; border-radius: 8px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
+      <p style="font-size: 24px; margin: 0 0 10px 0;">🧱</p>
+      <h3 style="margin: 0 0 10px 0; font-size: 18px; color: #24292f; line-height: 1.2;">Materials Chemistry & Characterization</h3>
+      <p style="font-size: 14px; color: #57606a; line-height: 1.5; margin: 0;">
+        Interested in understanding the composition, structure, and functional properties of materials through analytical methods, spectroscopy, and complementary characterization techniques.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" valign="top" style="background-color: #ffffff; border: 1px solid #d0d7de; border-top: 4px solid #0969da; border-radius: 8px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
+      <p style="font-size: 24px; margin: 0 0 10px 0;">🌫️</p>
+      <h3 style="margin: 0 0 10px 0; font-size: 18px; color: #24292f; line-height: 1.2;">Atmospheric Chemistry & Environmental Contaminants</h3>
+      <p style="font-size: 14px; color: #57606a; line-height: 1.5; margin: 0;">
+        Interested in the behavior of atmospheric contaminants, particularly their sources, transformation, transport, and environmental impacts, including the role of airborne microplastics and nanoplastics in atmospheric processes.
+      </p>
+    </td>
+    <td width="33.33%" valign="top" style="background-color: #ffffff; border: 1px solid #d0d7de; border-top: 4px solid #0969da; border-radius: 8px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
+      <p style="font-size: 24px; margin: 0 0 10px 0;">🌿</p>
+      <h3 style="margin: 0 0 10px 0; font-size: 18px; color: #24292f; line-height: 1.2;">Carbon Materials & Environmental Applications</h3>
+      <p style="font-size: 14px; color: #57606a; line-height: 1.5; margin: 0;">
+        Interested in carbon-based materials, their properties and transformations, and their potential applications in carbon utilization, environmental remediation, and sequestration.
+      </p>
+    </td>
+    <td width="33.33%" valign="top" style="background-color: #ffffff; border: 1px solid #d0d7de; border-top: 4px solid #0969da; border-radius: 8px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
+      <p style="font-size: 24px; margin: 0 0 10px 0;">♻️</p>
+      <h3 style="margin: 0 0 10px 0; font-size: 18px; color: #24292f; line-height: 1.2;">Sustainable Materials, Biomass Valorization & Resource Recovery</h3>
+      <p style="font-size: 14px; color: #57606a; line-height: 1.5; margin: 0;">
+        Interested in converting biomass and organic waste into value-added materials and exploring sustainable approaches to resource recovery and circular economy.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
