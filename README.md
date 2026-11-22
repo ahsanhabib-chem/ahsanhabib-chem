@@ -27,7 +27,7 @@
   <tr>
     <!-- Box 1 -->
     <td width="33.33%" valign="top" style="background-color: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #0ea5e9; border-radius: 8px; padding: 20px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
-      <p style="font-size: 24px; margin: 0 0 10px 0;">🧪</p>
+      <p style="font-size: 28px; margin: 0 0 10px 0;">🧪</p>
       <h3 style="margin: 0 0 10px 0; font-size: 18px; color: #0f172a; line-height: 1.3;">Analytical Chemistry & Chemical Characterization</h3>
       <p style="font-size: 14px; color: #475569; line-height: 1.6; margin: 0;">
         Interested in analytical methodologies for qualitative and quantitative analysis, method development, and the accurate determination of chemical constituents across a wide range of samples and applications.
@@ -78,7 +78,6 @@
     </td>
   </tr>
 </table>
----
 
 <!-- ================= TECHNIQUES & INSTRUMENTATION ================= -->
 <h2>🔬 Spectroscopic Techniques</h2>
