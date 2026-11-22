@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 <!-- ================= RESEARCH INTERESTS (GRID) ================= -->
 <h2>🔬 Research Interests</h2>
 <p style="color: #475569; font-size: 16px; margin-bottom: 25px; line-height: 1.6;">
@@ -112,8 +110,6 @@
 
 <br>
 
----
-
 <!-- ================= PROJECTS & EDUCATION ================= -->
 <h2>📂 Research Projects</h2>
 <ol>
@@ -131,7 +127,6 @@
 
 <br>
 
----
 
 <!-- ================= CONNECT ================= -->
 <h2>🌐 Connect With Me</h2>
